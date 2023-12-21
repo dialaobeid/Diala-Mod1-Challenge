@@ -11,3 +11,5 @@ Note: the starter code was cloned from the shared link: https://github.com/codin
 
     the refactored code was then uploaded onto this repository
 
+Link to deployed application:
+    https://github.com/dialaobeid/Diala-Mod1-Challenge
