@@ -153,11 +153,10 @@ p {
     color: #ffffff;
 }
 
-    /* adjusted the height to fit the paragraph in the blue box */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
-    height: 320px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
